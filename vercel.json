@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "rewrites": [
+    { "source": "/", "destination": "/config.yaml" }
+  ],
+  "headers": [
+    {
+      "source": "/",
+      "headers": [
+        { "key": "Content-Type", "value": "text/yaml; charset=utf-8" },
+        { "key": "Content-Disposition", "value": "attachment; filename=\"mingyue\"; filename*=UTF-8''%E9%B8%A3%E7%BA%A6%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B9" },
+        { "key": "Cache-Control", "value": "public, max-age=300" }
+      ]
+    }
+  ]
+}
