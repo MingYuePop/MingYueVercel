@@ -12,7 +12,7 @@
 #       interval: 300
 #     proxy: 直连
 
-# 节点信息
+# 节点信息 
 proxies:
   - { name: 直连, type: direct }
   - { name: "📣 QQ群：176022692", type: direct }
