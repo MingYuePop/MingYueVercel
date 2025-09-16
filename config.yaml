@@ -17,7 +17,7 @@ proxies:
   - { name: 直连, type: direct }
   - { name: "📣 QQ群：176022692", type: direct }
   - { name: "📣 电报：@Daygl", type: direct }
-    - {"alterId":0,"cipher":"auto","name":"🇭🇰 鸣约 |  香港 191","network":"ws","port":21942,"server":"47.86.44.204","tls":false,"type":"vmess","uuid":"f23d3837-559b-4c0d-80d4-f314bb860f71","ws-opts":{"path":"/arki","early-data-header-name":"Sec-WebSocket-Protocol","max-early-data":2048},"skip-cert-verify":false}
+  - {"alterId":0,"cipher":"auto","name":"🇭🇰 鸣约 |  香港 191","network":"ws","port":21942,"server":"47.86.44.204","tls":false,"type":"vmess","uuid":"f23d3837-559b-4c0d-80d4-f314bb860f71","ws-opts":{"path":"/arki","early-data-header-name":"Sec-WebSocket-Protocol","max-early-data":2048},"skip-cert-verify":false}
   - {"alterId":0,"cipher":"auto","name":"🇭🇰 鸣约 |  香港 243","network":"ws","port":61180,"server":"47.86.43.242","tls":false,"type":"vmess","uuid":"849adaae-1082-4752-9549-abeccec1b0af","ws-opts":{"path":"/arki","early-data-header-name":"Sec-WebSocket-Protocol","max-early-data":2048},"skip-cert-verify":false}
   - {"alterId":0,"cipher":"auto","name":"🇭🇰 鸣约 |  香港 109","network":"ws","port":19346,"server":"47.86.35.129","tls":false,"type":"vmess","uuid":"4255e2a7-beee-4768-8082-8d787e88c420","ws-opts":{"path":"/arki","early-data-header-name":"Sec-WebSocket-Protocol","max-early-data":2048},"skip-cert-verify":false}
   - {"alterId":0,"cipher":"auto","name":"🇭🇰 鸣约 |  香港 110","network":"ws","port":18912,"server":"47.86.35.129","tls":false,"type":"vmess","uuid":"6052a431-b718-4aad-9067-86ca6c788e6f","ws-opts":{"path":"/arki","early-data-header-name":"Sec-WebSocket-Protocol","max-early-data":2048},"skip-cert-verify":false}
